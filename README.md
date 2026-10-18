@@ -22,7 +22,7 @@ Blender before 2.80 stores its icons differently and is not covered. The tool ic
 
 ## License
 
-* The icons are part of the Blender source code, which is released under the GNU General Public License. See `LICENSE-BLENDER-ICONS.txt`.
+* The icons are part of the Blender source code, which is released under the GNU General Public License. The full license text and a note on the changes made are in `LICENSE-BLENDER-ICONS.txt`.
 * The code of this site (everything else) is MIT licensed, see `LICENSE`.
 
 This is an unofficial project, not affiliated with or endorsed by the Blender Foundation. "Blender" is a registered trademark of the Blender Foundation; the Blender logo is not used here.
