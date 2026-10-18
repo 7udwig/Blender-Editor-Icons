@@ -1,0 +1,8 @@
+The icons shown on this site are part of the Blender source code
+(https://projects.blender.org/blender/blender, folders release/datafiles/blender_icons32 and release/datafiles/icons_svg).
+
+Blender is free software released under the GNU General Public License
+(version 2 or later). The full text is available at
+https://www.gnu.org/licenses/gpl-2.0.html and in the Blender source repository.
+
+Blender(R) is a registered trademark of the Blender Foundation.

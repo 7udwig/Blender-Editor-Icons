@@ -1,0 +1,35 @@
+{
+  "engine": "Blender",
+  "title": "Blender Editor Icons",
+  "accent": "#EA7600",
+  "keyLabel": "Name",
+  "snippets": [
+    {
+      "group": "py",
+      "from": "2.80",
+      "label": "icon=",
+      "code": "icon='{name}'",
+      "note": "Pass it as icon= to layout.operator(...), layout.prop(...), layout.label(...) or layout.menu(...). Use text=\"\" to show only the icon."
+    },
+    {
+      "group": "py",
+      "from": "2.80",
+      "label": "layout.operator",
+      "code": "layout.operator(\"my.operator\", icon='{name}')"
+    }
+  ],
+  "tint": [],
+  "footer": "Unofficial overview, not affiliated with or endorsed by the Blender Foundation. Blender&reg; is a registered trademark of the Blender Foundation. The icons are part of the Blender source code, which is released under the GNU General Public License. Source: <a href=\"https://projects.blender.org/blender/blender\" target=\"_blank\" rel=\"noopener\">projects.blender.org/blender/blender</a>.",
+  "iconsLight": true,
+  "palette": {
+    "dark": [
+      "#f5a04a",
+      "#e0780c"
+    ],
+    "light": [
+      "#c25e00",
+      "#a34d00"
+    ]
+  },
+  "crossMajor": true
+}
